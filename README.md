@@ -1,4 +1,4 @@
-# Amora Beauty 💄
+# Amora Beauty 
 
 Projeto de desenvolvimento web para a **Amora Beauty**, uma loja virtual fictícia de maquiagem e produtos de beleza, criada com o objetivo de apresentar produtos, divulgar a marca e proporcionar uma experiência de navegação agradável aos usuários.
 
